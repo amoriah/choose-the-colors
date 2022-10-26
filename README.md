@@ -3,4 +3,4 @@ This project was made from a [video](https://www.youtube.com/watch?v=OaNICHKM5KM
 
 Thanks to this site you can pick up 5 colors and copy them in hex format to use them for your design.
 
-example
+![example](/png/example.png)
